@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding-top: 20px;
+    padding-left: 450px;
+    background-color: #8FBCB3;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    display: inline-block;
+    background-color: white;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+}
